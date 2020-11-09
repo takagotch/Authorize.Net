@@ -1,4 +1,4 @@
-### Autherize.net
+### Authorize.Net
 ---
 https://www.authorize.net/
 
